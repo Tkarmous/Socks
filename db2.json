@@ -1,35 +1,16 @@
-events: [
-        {
-          id: 1,
-          category: 'bien-etre animal',
-          title: 'Journée d\'adoption des chats',
-          description: 'Meow Town',
-          location: 'Meow Town',
-          date: '28 January 2022',
-          time: '12:00',
-          petsAllowed: true,
-          organizer: 'Foulen Ben Foulen',
-        },
-        {
-          id: 2,
-          category: 'nourriture',
-          title: 'Jardinage communautaire',
-          description: 'Rejoignez-nous alors que nous nous occupons des plantes comestibles de la communauté',
-          location: 'El Nasr',
-          date: '14 Mars 2022',
-          time: '10:00',
-          petsAllowed: true,
-          organizer: 'Dora Lamin',
-        },
-        {
-          id: 3,
-          category: 'Nettoyage',
-          title: 'Nettoyage de plage',
-          description: 'Aider à ramasser les ordures le long du rivage.',
-          location: 'Plage le Corniche',
-          date: '22 Juillet 2022',
-          time: '11:00',
-          petsAllowed: false,
-          organizer: 'Cheick Hafedh',
-        },
-];
+{
+  "variants": [
+    {
+      "id": 2001,
+      "color": "green",
+      "image": "assets/images/socks_green.jpg",
+      "quantity": 50
+    },
+    {
+      "id": 2002,
+      "color": "blue",
+      "image": "assets/images/socks_blue.jpg",
+      "quantity": 0
+    }
+  ]
+}
